@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/nik/university/oop/pr1_new/pr1_ex1/pr1_ex1.csproj": {}
+    "/home/nik/university/oop/pr1/pr1_ex1/pr1_ex1.csproj": {}
   },
   "projects": {
-    "/home/nik/university/oop/pr1_new/pr1_ex1/pr1_ex1.csproj": {
+    "/home/nik/university/oop/pr1/pr1_ex1/pr1_ex1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/nik/university/oop/pr1_new/pr1_ex1/pr1_ex1.csproj",
+        "projectUniqueName": "/home/nik/university/oop/pr1/pr1_ex1/pr1_ex1.csproj",
         "projectName": "pr1_ex1",
-        "projectPath": "/home/nik/university/oop/pr1_new/pr1_ex1/pr1_ex1.csproj",
+        "projectPath": "/home/nik/university/oop/pr1/pr1_ex1/pr1_ex1.csproj",
         "packagesPath": "/home/nik/.nuget/packages/",
-        "outputPath": "/home/nik/university/oop/pr1_new/pr1_ex1/obj/",
+        "outputPath": "/home/nik/university/oop/pr1/pr1_ex1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/nik/.nuget/NuGet/NuGet.Config"
