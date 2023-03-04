@@ -14,7 +14,6 @@
       Mul(10, 4);
 
 
-      void Div(int x, int y) => Console.WriteLine(y != 0 ?  x / y : 0);
+      void Div(int x, int y) => Console.WriteLine(y != 0 ?  x / y : "На ноль дельть нельзя!");
 
       Div(10, 0);
-
