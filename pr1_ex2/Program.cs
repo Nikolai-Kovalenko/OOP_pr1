@@ -1,23 +1,35 @@
 ﻿using System;
 
-Func<int, int, int> getRandomNumber = delegate(int x, int y) {
-  Random rand = new Random();
-  return rand.Next(x, y);
-};
+namespace pr1
+{
+     class Program
+     {
+          static void Main() {
+              
+                Func<int>[] delegate_array = new Func<int>[] {
+                    () => new Random().Next(1, 11),
+                    () => new Random().Next(1, 11),
+                    () => new Random().Next(1, 11),
+                    () => new Random().Next(1, 11),
+                    () => new Random().Next(1, 11)
+                };
 
-int i = getRandomNumber(50, 55);
-Console.WriteLine(i);
+               int avg = Get_array(delegate_array);
+               System.Console.WriteLine(avg);
+                
+           }
 
-Func<int, int, int> newRandom = (int x, int y) => new Random().Next(x, y);
+          static int Get_array(Func<int>[] delegate_array) {
+              int summ = 0;
+              int count = delegate_array.Length;
 
-int result2 = newRandom(5, 10);
-Console.WriteLine(result2);
+              foreach (var del_ar in delegate_array)
+              {
+                  summ += del_ar(); 
+              }
 
-
-Func<int, int, int> Summary = (int a, int b) => a + b;
-
-Console.WriteLine(Summary(i, result2));
-
-Console.ReadKey();
-Console.Clear();
+              return summ / count;
+          }
+     }
+}
 
