@@ -1,0 +1,15 @@
+/home/nik/university/oop/pr1/pr1_ex3/bin/Debug/net6.0/pr1_ex3
+/home/nik/university/oop/pr1/pr1_ex3/bin/Debug/net6.0/pr1_ex3.deps.json
+/home/nik/university/oop/pr1/pr1_ex3/bin/Debug/net6.0/pr1_ex3.runtimeconfig.json
+/home/nik/university/oop/pr1/pr1_ex3/bin/Debug/net6.0/pr1_ex3.dll
+/home/nik/university/oop/pr1/pr1_ex3/bin/Debug/net6.0/ref/pr1_ex3.dll
+/home/nik/university/oop/pr1/pr1_ex3/bin/Debug/net6.0/pr1_ex3.pdb
+/home/nik/university/oop/pr1/pr1_ex3/obj/Debug/net6.0/pr1_ex3.csproj.AssemblyReference.cache
+/home/nik/university/oop/pr1/pr1_ex3/obj/Debug/net6.0/pr1_ex3.GeneratedMSBuildEditorConfig.editorconfig
+/home/nik/university/oop/pr1/pr1_ex3/obj/Debug/net6.0/pr1_ex3.AssemblyInfoInputs.cache
+/home/nik/university/oop/pr1/pr1_ex3/obj/Debug/net6.0/pr1_ex3.AssemblyInfo.cs
+/home/nik/university/oop/pr1/pr1_ex3/obj/Debug/net6.0/pr1_ex3.csproj.CoreCompileInputs.cache
+/home/nik/university/oop/pr1/pr1_ex3/obj/Debug/net6.0/pr1_ex3.dll
+/home/nik/university/oop/pr1/pr1_ex3/obj/Debug/net6.0/ref/pr1_ex3.dll
+/home/nik/university/oop/pr1/pr1_ex3/obj/Debug/net6.0/pr1_ex3.pdb
+/home/nik/university/oop/pr1/pr1_ex3/obj/Debug/net6.0/pr1_ex3.genruntimeconfig.cache
